@@ -1,0 +1,18 @@
+# Datasets
+*.pl
+
+# Configuration files
+conf/config.py
+
+# Log files and saved models
+.logs/
+.saved_models/
+.predictions/
+
+# Error and log files
+*.out
+*.err
+
+# Other python code
+__pycache__/
+*/__pycache__/
